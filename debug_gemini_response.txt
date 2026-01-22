@@ -1,0 +1,920 @@
+{
+  "roadmap": "2026.01.22 ~ 2026.01.28 : 문법론 기초 1회독\n2026.01.29 ~ 2026.02.04 : 문법론 2회독 및 기출\n2026.02.05 ~ 2026.02.11 : 문학론 기초 1회독\n2026.02.12 ~ 2026.02.18 : 문학론 2회독 심화\n2026.02.19 ~ 2026.02.25 : 국어사 1회독 및 기출\n2026.02.26 ~ 2026.03.04 : 화법과 작문 1회독\n2026.03.05 ~ 2026.03.11 : 독서론 1회독 및 분석\n2026.03.12 ~ 2026.03.18 : 논술 1회독 및 첨삭\n2026.03.19 ~ 2026.03.25 : 교육론 1회독 및 정리\n2026.03.26 ~ 2026.04.01 : 기출 분석 (2022-2025)\n2026.04.02 ~ 2026.04.08 : 기출 분석 (2018-2021)\n2026.04.09 ~ 2026.04.15 : 영역별 문제 풀이(문법, 문학)\n2026.04.16 ~ 2026.04.22 : 영역별 문제 풀이(화작, 독서)\n2026.04.23 ~ 2026.04.29 : 모의고사 1회 실시\n2026.04.30 ~ 2026.05.06 : 문법 취약 영역 보완\n2026.05.07 ~ 2026.05.13 : 문학 취약 영역 보완\n2026.05.14 ~ 2026.05.20 : 화작, 독서 취약 보완\n2026.05.21 ~ 2026.05.27 : 문법, 문학 심화\n2026.05.28 ~ 2026.06.03 : 화작, 독서, 국어사 심화\n2026.06.04 ~ 2026.06.10 : 문법 백지 인출\n2026.06.11 ~ 2026.06.17 : 문학 백지 인출\n2026.06.18 ~ 2026.06.24 : 화작, 독서 백지 인출\n2026.06.25 ~ 2026.07.01 : 오답 노트 재정리\n2026.07.02 ~ 2026.07.08 : 모의고사 2회 실시\n2026.07.09 ~ 2026.07.15 : 스터디 (영역별 토론)\n2026.07.16 ~ 2026.07.22 : 스터디 (문제 풀이)\n2026.07.23 ~ 2026.07.29 : 멘토링 (학습 점검)\n2026.07.30 ~ 2026.08.05 : 멘토링 (동기 부여)\n2026.08.06 ~ 2026.08.12 : 운동 및 스트레스 해소\n2026.08.13 ~ 2026.08.19 : 긍정적 마음가짐 유지\n2026.08.20 ~ 2026.08.26 : 모의고사 3회 실시\n2026.08.27 ~ 2026.09.02 : 문법 집중 학습\n2026.09.03 ~ 2026.09.09 : 문학 집중 학습\n2026.09.10 ~ 2026.09.16 : 화작, 독서 집중 학습\n2026.09.17 ~ 2026.09.23 : 4회독 (문법, 문학)\n2026.09.24 ~ 2026.09.30 : 4회독 (화작, 독서, 국어사)\n2026.10.01 ~ 2026.10.07 : 문법 백지, 오답 복습\n2026.10.08 ~ 2026.10.14 : 문학 백지, 오답 복습\n2026.10.15 ~ 2026.10.21 : 화작, 독서 백지, 오답\n2026.10.22 ~ 2026.10.28 : 모의고사 4회, 최종 점검\n2026.10.29 ~ 2026.11.04 : 최종 마무리 학습\n2026.11.05 ~ 2026.11.11 : 핵심 내용 압축 암기\n2026.11.12 ~ 2026.11.18 : 모의고사 5회, 실전 감각\n2026.11.19 ~ 2026.11.25 : 최종 오답, 취약 보완\n2026.11.26 ~ 2026.12.01 : 컨디션 관리, 긍정 유지",
+  "plans": [
+    {
+      "date": "2026-01-22",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 1강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 용어 정리",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 2강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 예시 분석",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-24",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 3강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 심화 학습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-25",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 4강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 복습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 10문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 5강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 오답노트",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 6강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 요약 정리",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 7강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 백지 인출",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 8강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 복습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 10문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 9강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 심화 학습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-01-31",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 10강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 오답노트",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-01",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 복습",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 백지 인출",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 복습",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 11강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 예시 분석",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 12강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 심화 학습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "tasks": [
+        {
+          "title": "[개념] 문법론 13강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문법 복습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문법 기출 10문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 1강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 용어 정리",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 2강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 예시 분석",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-07",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 3강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 심화 학습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-08",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 4강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 복습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 10문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 5강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 오답노트",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 6강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 요약 정리",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 7강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 백지 인출",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 8강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 복습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 10문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 9강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 심화 학습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-14",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 10강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 오답노트",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-15",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 복습",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 백지 인출",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 복습",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-16",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 11강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 예시 분석",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 12강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 심화 학습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 5문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "tasks": [
+        {
+          "title": "[개념] 문학론 13강",
+          "time_target": 4,
+          "progress": 0
+        },
+        {
+          "title": "[개념] 문학 복습",
+          "time_target": 3,
+          "progress": 0
+        },
+        {
+          "title": "[기출] 문학 기출 10문제",
+          "time_target": 3,
+          "progress": 0
+        }
+      ]
+    },
+{
+ "date": "2026-02-23",
+ "tasks": [
+  {
+   "title": "[주간목표]국어사 1회독",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-03-02",
+ "tasks": [
+  {
+   "title": "[주간목표]화작 1회독",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-03-09",
+ "tasks": [
+  {
+   "title": "[주간목표]독서론 1회독",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-03-16",
+ "tasks": [
+  {
+   "title": "[주간목표]논술 1회독",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-03-23",
+ "tasks": [
+  {
+   "title": "[주간목표]교육론 1회독",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-03-30",
+ "tasks": [
+  {
+   "title": "[주간목표]기출 분석 시작",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-04-06",
+ "tasks": [
+  {
+   "title": "[주간목표]기출 분석 마무리",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-04-13",
+ "tasks": [
+  {
+   "title": "[주간목표]영역별 문제풀이",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-04-20",
+ "tasks": [
+  {
+   "title": "[주간목표]영역별 문제풀이",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-04-27",
+ "tasks": [
+  {
+   "title": "[주간목표]모의고사 1회 실시",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-05-04",
+ "tasks": [
+  {
+   "title": "[주간목표]문법 보완 학습",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-05-11",
+ "tasks": [
+  {
+   "title": "[주간목표]문학 보완 학습",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-05-18",
+ "tasks": [
+  {
+   "title": "[주간목표]화작, 독서 보완",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-05-25",
+ "tasks": [
+  {
+   "title": "[주간목표]문법, 문학 심화",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-06-01",
+ "tasks": [
+  {
+   "title": "[주간목표]화작, 독서, 국어사 심화",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-06-08",
+ "tasks": [
+  {
+   "title": "[주간목표]문법 백지 인출",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-06-15",
+ "tasks": [
+  {
+   "title": "[주간목표]문학 백지 인출",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-06-22",
+ "tasks": [
+  {
+   "title": "[주간목표]화작, 독서 백지",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-06-29",
+ "tasks": [
+  {
+   "title": "[주간목표]오답 노트 재정리",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-07-06",
+ "tasks": [
+  {
+   "title": "[주간목표]모의고사 2회 실시",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-07-13",
+ "tasks": [
+  {
+   "title": "[주간목표]스터디 영역별 토론",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-07-20",
+ "tasks": [
+  {
+   "title": "[주간목표]스터디 문제 풀이",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-07-27",
+ "tasks": [
+  {
+   "title": "[주간목표]멘토링 학습 방향",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-08-03",
+ "tasks": [
+  {
+   "title": "[주간목표]멘토링 동기 부여",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-08-10",
+ "tasks": [
+  {
+   "title": "[주간목표]운동, 스트레스 해소",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-08-17",
+ "tasks": [
+  {
+   "title": "[주간목표]긍정적 마음가짐",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-08-24",
+ "tasks": [
+  {
+   "title": "[주간목표]모의고사 3회 실시",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-08-31",
+ "tasks": [
+  {
+   "title": "[주간목표]문법 집중 학습",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-09-07",
+ "tasks": [
+  {
+   "title": "[주간목표]문학 집중 학습",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-09-14",
+ "tasks": [
+  {
+   "title": "[주간목표]화작, 독서 집중",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-09-21",
+ "tasks": [
+  {
+   "title": "[주간목표]4회독 문법, 문학",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-09-28",
+ "tasks": [
+  {
+   "title": "[주간목표]4회독 화작, 독서, 국어사",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-10-05",
+ "tasks": [
+  {
+   "title": "[주간목표]문법 백지, 오답",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-10-12",
+ "tasks": [
+  {
+   "title": "[주간목표]문학 백지, 오답",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-10-19",
+ "tasks": [
+  {
+   "title": "[주간목표]화작, 독서 백지, 오답",
+   "time_target": 14,
+   "progress": 0
+  }
+ ]
+},
+{
+ "date": "2026-10-26",
+ "tasks": [
+  {
+   "title": "[주간목표]모의고사 4회, 점검",
+   "time_target": 14,
+   "progress":
